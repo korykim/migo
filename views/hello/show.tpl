@@ -1,0 +1,1 @@
+D:\Go\gopath\src\migo/views/hello/show.tpl
